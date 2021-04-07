@@ -1,0 +1,10 @@
+C:\Users\piszk\Documents\OKTATAS\PROG_Csolti\04.07\NadasyB_AdatbazisTabla\NadasyB_AdatbazisTabla\bin\Debug\NadasyB_AdatbazisTabla.exe.config
+C:\Users\piszk\Documents\OKTATAS\PROG_Csolti\04.07\NadasyB_AdatbazisTabla\NadasyB_AdatbazisTabla\bin\Debug\NadasyB_AdatbazisTabla.exe
+C:\Users\piszk\Documents\OKTATAS\PROG_Csolti\04.07\NadasyB_AdatbazisTabla\NadasyB_AdatbazisTabla\bin\Debug\NadasyB_AdatbazisTabla.pdb
+C:\Users\piszk\Documents\OKTATAS\PROG_Csolti\04.07\NadasyB_AdatbazisTabla\NadasyB_AdatbazisTabla\obj\Debug\NadasyB_AdatbazisTabla.csprojAssemblyReference.cache
+C:\Users\piszk\Documents\OKTATAS\PROG_Csolti\04.07\NadasyB_AdatbazisTabla\NadasyB_AdatbazisTabla\obj\Debug\NadasyB_AdatbazisTabla.Form1.resources
+C:\Users\piszk\Documents\OKTATAS\PROG_Csolti\04.07\NadasyB_AdatbazisTabla\NadasyB_AdatbazisTabla\obj\Debug\NadasyB_AdatbazisTabla.Properties.Resources.resources
+C:\Users\piszk\Documents\OKTATAS\PROG_Csolti\04.07\NadasyB_AdatbazisTabla\NadasyB_AdatbazisTabla\obj\Debug\NadasyB_AdatbazisTabla.csproj.GenerateResource.cache
+C:\Users\piszk\Documents\OKTATAS\PROG_Csolti\04.07\NadasyB_AdatbazisTabla\NadasyB_AdatbazisTabla\obj\Debug\NadasyB_AdatbazisTabla.csproj.CoreCompileInputs.cache
+C:\Users\piszk\Documents\OKTATAS\PROG_Csolti\04.07\NadasyB_AdatbazisTabla\NadasyB_AdatbazisTabla\obj\Debug\NadasyB_AdatbazisTabla.exe
+C:\Users\piszk\Documents\OKTATAS\PROG_Csolti\04.07\NadasyB_AdatbazisTabla\NadasyB_AdatbazisTabla\obj\Debug\NadasyB_AdatbazisTabla.pdb
